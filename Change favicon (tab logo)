@@ -1,1 +1,1 @@
-javascript:var link%3Ddocument.querySelector("link%5Brel~%3D'icon'%5D")%3Blink%7C%7C(link%3Ddocument.createElement("link")%2Clink.rel%3D"icon"%2Cdocument.head.appendChild(link))%3Blink.href%3D"https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico%3Fv%3D1571606036"%3Bvoid+0
+javascript:var link%3Ddocument.querySelector("link%5Brel~%3D'icon'%5D")%3Blink%7C%7C(link%3Ddocument.createElement("link")%2Clink.rel%3D"icon"%2Cdocument.head.appendChild(link))%3Blink.href%3D"https://www.shareicon.net/data/2015/07/28/76310_doc_256x256.png%3Fv%3D1571606036"%3Bvoid+0
