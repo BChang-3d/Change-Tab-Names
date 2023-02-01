@@ -12,3 +12,11 @@ repeat the process except for the other one
 
 **IF YOU PUT THE 2 CODES TOGETHER IN ONE BOOKMARKLET, IT WILL NOT WORK!!!!!!!!!! IT HAS TO BE SEPERATE BOOKMARKS!!!!!!!!!!**
 once you put the bookmarks in, all you have to do is go to whatever game page, click the 2 bookmarklets then it should change the tab name and favicon.
+
+
+before: 
+ <img src="blob:chrome-untrusted://media-app/f877010f-0731-44e2-867a-2c09e19aa0f0" alt="Screenshot 2023-01-31 17.45.32.png"/>![image](https://user-images.githubusercontent.com/114553146/215925144-5eb4f03e-cb4b-40c4-9083-d245262c5171.png)
+
+after:
+![image](https://user-images.githubusercontent.com/114553146/215925092-8793e9b8-bd96-4743-9afd-c752a04c8495.png)
+
