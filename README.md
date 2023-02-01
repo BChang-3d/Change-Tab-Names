@@ -30,3 +30,12 @@ after:
 
 
 **WARNING!!!!!!! THIS MIGHT NOT WORK IF YOUR THIRD PARTY COOKIES ARE BLOCKED, YOUR SITE SETTINGS DISABLE JAVASCRIPT, IMAGES, OR SOMETHING ELSE. AGAIN, IT ***MAY NOT WORK*** !!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+#copyright warning
+all code belongs to B-don-don. Please do not market this code as your own, make money off of it, or professionally use it for businesses. Any violation may lead to serious consequences. (see US code 106 and 106a)
