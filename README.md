@@ -8,5 +8,7 @@ change the name if you want to
 click more
 change the URL to one of the codes
 repeat the process except for the other one
+
+
 **IF YOU PUT THE 2 CODES TOGETHER IN ONE BOOKMARKLET, IT WILL NOT WORK!!!!!!!!!! IT HAS TO BE SEPERATE BOOKMARKS!!!!!!!!!!**
 once you put the bookmarks in, all you have to do is go to whatever game page, click the 2 bookmarklets then it should change the tab name and favicon.
