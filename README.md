@@ -40,4 +40,4 @@ after:
 # copyright-warning
 
 
-all code belongs to B-don-don. Please do not market this code as your own, make money off of it, or professionally use it for businesses. Any violation may lead to serious consequences. (see US penal code 106 and 106a)
+all code belongs to Bchang-3d. Please do not market this code as your own, make money off of it, or professionally use it for businesses. Any violation may lead to serious consequences. (see US penal code 106 and 106a)
